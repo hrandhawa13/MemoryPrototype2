@@ -1,5 +1,5 @@
 # MemoryPrototype2
-# Harmanjit Randhawa
+# Object oriented porgramming, inheritance, interfaces, Multi thread client server, Java, GUI, Listeners, javax.swing
 
 This is the second prototype of memory game. It is the extended version of MemoryPrototype1.
 It is a multi thread server client cards game with GUI.
